@@ -1,4 +1,4 @@
-# A/B Testing (Order Match Time)
+# Background
 
 We would like to test the impact of a change introduced at ‘2017-03-30 12:00:00 AM’ on our Order Allocation system. The objective of the change is to improve order Match Time, which is the duration since the time an order was created to the time the order was accepted by a driver. The file response_data.csv contains the order records you’d need for this part of the challenge.
 
