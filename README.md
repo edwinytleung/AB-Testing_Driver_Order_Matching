@@ -14,3 +14,7 @@ Your answer will be evaluated based on the following aspects (you can provide yo
 - Your thought process and how you get to your results
 - Your visualization and statistical knowledge
 - Your presentation and delivery of results
+
+# Technique
+
+Mann-Whitney U Test
